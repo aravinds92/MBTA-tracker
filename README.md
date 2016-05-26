@@ -1,5 +1,5 @@
 # MBTA-tracker
-Track the current positions of trains on all MBTA lines using a Gumstix Verdex, Raspberry Pi and a LCD to display the map<br />
+Track the current positions of trains on all MBTA lines using a Gumstix Verdex, Raspberry Pi and a LCD to display the map<br /><br />
 Raspberry Pi:<br />
   Untar the directory code.tar and put it in a Raspberry pi.<br />
   Run ./script to start the application on the Raspi.<br />
